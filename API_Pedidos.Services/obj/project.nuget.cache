@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "632aBO8AdU+gY54CW/95Dlv7Area4I1uwZIi9YJZ2Fda0BkZyW1o75gOg9gkNhR5/mFWND+m5qwVP0wUjJUYFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\liped\\source\\repos\\API_Pedidos.Services\\API_Pedidos.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liped\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}

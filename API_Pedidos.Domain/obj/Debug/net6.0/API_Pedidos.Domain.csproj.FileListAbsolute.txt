@@ -1,0 +1,12 @@
+C:\Users\liped\source\repos\API_Pedidos.Domain\bin\Debug\net6.0\API_Pedidos.Domain.deps.json
+C:\Users\liped\source\repos\API_Pedidos.Domain\bin\Debug\net6.0\API_Pedidos.Domain.dll
+C:\Users\liped\source\repos\API_Pedidos.Domain\bin\Debug\net6.0\API_Pedidos.Domain.pdb
+C:\Users\liped\source\repos\API_Pedidos.Domain\obj\Debug\net6.0\API_Pedidos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liped\source\repos\API_Pedidos.Domain\obj\Debug\net6.0\API_Pedidos.Domain.AssemblyInfoInputs.cache
+C:\Users\liped\source\repos\API_Pedidos.Domain\obj\Debug\net6.0\API_Pedidos.Domain.AssemblyInfo.cs
+C:\Users\liped\source\repos\API_Pedidos.Domain\obj\Debug\net6.0\API_Pedidos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\liped\source\repos\API_Pedidos.Domain\obj\Debug\net6.0\API_Pedidos.Domain.dll
+C:\Users\liped\source\repos\API_Pedidos.Domain\obj\Debug\net6.0\refint\API_Pedidos.Domain.dll
+C:\Users\liped\source\repos\API_Pedidos.Domain\obj\Debug\net6.0\API_Pedidos.Domain.pdb
+C:\Users\liped\source\repos\API_Pedidos.Domain\obj\Debug\net6.0\ref\API_Pedidos.Domain.dll
+C:\Users\liped\source\repos\API_Pedidos.Domain\obj\Debug\net6.0\API_Pedidos.Domain.csproj.AssemblyReference.cache
