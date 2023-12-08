@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lXaWqLPvwXUGRcX22xS8srgjpmhDCcEOXhFyTQjdYi+K0emnbGpaZBxXyBy0kdS4t02MMG9pl4fqczN8vXhJLg==",
+  "dgSpecHash": "VYCMte9HwHncceSNZ3kAND5KViVoQw1PrWMgarBnarese5KloeV3KKItGyKifs0QbTJuXVOL0iAe/uSAztxcmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\liped\\source\\repos\\API_Pedidos.Infrastructure\\API_Pedidos.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\liped\\source\\repos\\API\\API_Pedidos.Infrastructure\\API_Pedidos.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\liped\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512",
     "C:\\Users\\liped\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.23\\microsoft.entityframeworkcore.6.0.23.nupkg.sha512",

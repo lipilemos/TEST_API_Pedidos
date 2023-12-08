@@ -4,6 +4,7 @@ using API_Pedidos.Domain.Core.Results;
 using API_Pedidos.Models;
 using API_Pedidos.Domain.PedidosContext.Entities;
 using AutoMapper;
+using System.Collections.Generic;
 
 namespace API_Pedidos.Controllers
 {
@@ -124,7 +125,7 @@ namespace API_Pedidos.Controllers
                 existingPedido.Data.EmailCliente = pedidoModel.EmailCliente;
 
             existingPedido.Data.Pago = pedidoModel.Pago;
-
+            List<ItensPedido> novaLista = new List<ItensPedido>();
             // Atualiza os itens do pedido
             if (pedidoModel.ItensPedido != null)
                 foreach (var itemModel in pedidoModel.ItensPedido)
@@ -132,21 +133,24 @@ namespace API_Pedidos.Controllers
                     var existingItem = existingPedido.Data.ItensPedido.FirstOrDefault(i => i.Id == itemModel.Id);
 
                     if (existingItem != null)
-                    {
+                    {                       
                         // Atualiza as propriedades do item do pedido existente com base nos dados recebidos
                         //existingItem.IdProduto = itemModel.Produto.Id;
                         //existingItem.IdPedido = id;
                         existingItem.Quantidade = itemModel.Quantidade;
                         existingItem.Produto.Valor = itemModel.Produto.Valor;
                         existingItem.Produto.NomeProduto = itemModel.Produto.NomeProduto;
+                        novaLista.Add(existingItem);
                     }
                     else
                     {
+
                         // Se o item não existir, pode ser necessário adicionr ou tratar conforme a lógica
-                        // aqui estou adicionando um novo item com um novo produto 
-                        existingPedido.Data.ItensPedido.Add(new ItensPedido { Quantidade = itemModel.Quantidade, Produto = new Produto { NomeProduto = itemModel.Produto.NomeProduto, Valor = itemModel.Produto.Valor } });
+                        // aqui estou adicionando um novo item com um novo produto
+                         novaLista.Add(new ItensPedido { Quantidade = itemModel.Quantidade, Produto = new Produto { NomeProduto = itemModel.Produto.NomeProduto, Valor = itemModel.Produto.Valor } });
                     }
                 }
+            existingPedido.Data.ItensPedido = novaLista;
 
             var result = await _pedidosService.UpdateAsync(existingPedido.Data);
 

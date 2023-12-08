@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "632aBO8AdU+gY54CW/95Dlv7Area4I1uwZIi9YJZ2Fda0BkZyW1o75gOg9gkNhR5/mFWND+m5qwVP0wUjJUYFA==",
+  "dgSpecHash": "8BmpnT3s/cFa+1QxCnD8IeAKPbtYHd0D4/O/3cdk+mWlkh9vgF214HG7SPKL4zVXd80KV/DH96k8b5RVbhb9vA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\liped\\source\\repos\\API_Pedidos.Services\\API_Pedidos.Services.csproj",
+  "projectFilePath": "C:\\Users\\liped\\source\\repos\\API\\API_Pedidos.Services\\API_Pedidos.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\liped\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512"
   ],

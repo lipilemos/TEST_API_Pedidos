@@ -2525,11 +2525,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\liped\\source\\repos\\API_Pedidos\\API_Pedidos.csproj",
+      "projectUniqueName": "C:\\Users\\liped\\source\\repos\\API\\API_Pedidos\\API_Pedidos.csproj",
       "projectName": "API_Pedidos",
-      "projectPath": "C:\\Users\\liped\\source\\repos\\API_Pedidos\\API_Pedidos.csproj",
+      "projectPath": "C:\\Users\\liped\\source\\repos\\API\\API_Pedidos\\API_Pedidos.csproj",
       "packagesPath": "C:\\Users\\liped\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\liped\\source\\repos\\API_Pedidos\\obj\\",
+      "outputPath": "C:\\Users\\liped\\source\\repos\\API\\API_Pedidos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\liped\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2546,11 +2546,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\liped\\source\\repos\\API_Pedidos.Infrastructure\\API_Pedidos.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\liped\\source\\repos\\API_Pedidos.Infrastructure\\API_Pedidos.Infrastructure.csproj"
+            "C:\\Users\\liped\\source\\repos\\API\\API_Pedidos.Infrastructure\\API_Pedidos.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\liped\\source\\repos\\API\\API_Pedidos.Infrastructure\\API_Pedidos.Infrastructure.csproj"
             },
-            "C:\\Users\\liped\\source\\repos\\API_Pedidos.Services\\API_Pedidos.Services.csproj": {
-              "projectPath": "C:\\Users\\liped\\source\\repos\\API_Pedidos.Services\\API_Pedidos.Services.csproj"
+            "C:\\Users\\liped\\source\\repos\\API\\API_Pedidos.Services\\API_Pedidos.Services.csproj": {
+              "projectPath": "C:\\Users\\liped\\source\\repos\\API\\API_Pedidos.Services\\API_Pedidos.Services.csproj"
             }
           }
         }

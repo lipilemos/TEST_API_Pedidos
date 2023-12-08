@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v4/iOUok90vUEhFXnqFuncQSJ/+Ozdn8XmXwIhEur6NQxBsn9RPXI00YIabakEILA5BDaQpQamsehQVYqHEfnQ==",
+  "dgSpecHash": "Ci0jymHHHaD9A8/Bmg2Bbl6d4iuaxlCgr3lDRPMLLj5aUm8q67EfiqS6fg5w9FIOIl4iHX5vQVJYjE567IETvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\liped\\source\\repos\\API_Pedidos.Test\\API_Pedidos.Test.csproj",
+  "projectFilePath": "C:\\Users\\liped\\source\\repos\\API\\API_Pedidos.Test\\API_Pedidos.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\liped\\.nuget\\packages\\autobogus\\2.13.1\\autobogus.2.13.1.nupkg.sha512",
     "C:\\Users\\liped\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",

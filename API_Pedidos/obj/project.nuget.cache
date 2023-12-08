@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6e8E1KiuEckGWUt3jQeS9SZwHrh9D5RqUb5WxZGQuXPx+zd6XqraSbmJd5/NDTxLeDOtDGKi6bc8aYsiYiBQSQ==",
+  "dgSpecHash": "WjUP/2yBNGm0f9SvXvbu6EVsc86WCUdtXyxukLKbc+utlbLKvsndVxSWehESfSzl0u7KHQEQpaIieMrE3kYtBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\liped\\source\\repos\\API_Pedidos\\API_Pedidos.csproj",
+  "projectFilePath": "C:\\Users\\liped\\source\\repos\\API\\API_Pedidos\\API_Pedidos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\liped\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\liped\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
